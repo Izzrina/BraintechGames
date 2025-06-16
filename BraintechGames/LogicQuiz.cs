@@ -10,7 +10,7 @@ namespace BraintechGames
 {
     internal class LogicQuiz
     {
-        private const string FilePath = "questions.json";
+        private const string FilePath = "Data/questions.json";
         private List<LogicQuestion> allQuestions;
         private List<LogicQuestion> selectedQuestions;
         private int points;

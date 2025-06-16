@@ -1,0 +1,32 @@
+[
+  {
+    "Username": null,
+    "MathScore": 0,
+    "LogicScore": 0,
+    "TotalScore": 0
+  },
+  {
+    "Username": null,
+    "MathScore": 0,
+    "LogicScore": 0,
+    "TotalScore": 0
+  },
+  {
+    "Username": null,
+    "MathScore": 0,
+    "LogicScore": 0,
+    "TotalScore": 0
+  },
+  {
+    "Username": "Nadine",
+    "MathScore": 40,
+    "LogicScore": 28,
+    "TotalScore": 68
+  },
+  {
+    "Username": "Johann",
+    "MathScore": 0,
+    "LogicScore": 0,
+    "TotalScore": 0
+  }
+]

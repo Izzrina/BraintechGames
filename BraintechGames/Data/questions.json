@@ -1,0 +1,262 @@
+[
+  {
+    "Question": "What is the capital of France?",
+    "Answers": ["Berlin", "Madrid", "Paris", "Rome"],
+    "IndexSolution": 2
+  },
+  {
+    "Question": "Who wrote the play 'Romeo and Juliet'?",
+    "Answers": ["Mark Twain", "William Shakespeare", "Charles Dickens", "Jane Austen"],
+    "IndexSolution": 1
+  },
+  {
+    "Question": "What planet is known as the Red Planet?",
+    "Answers": ["Mars", "Venus", "Jupiter", "Saturn"],
+    "IndexSolution": 0
+  },
+  {
+    "Question": "What is the largest mammal?",
+    "Answers": ["Elephant", "Blue Whale", "Giraffe", "Polar Bear"],
+    "IndexSolution": 1
+  },
+  {
+    "Question": "Which element has the chemical symbol 'O'?",
+    "Answers": ["Oxygen", "Gold", "Iron", "Silver"],
+    "IndexSolution": 0
+  },
+  {
+    "Question": "In which year did World War II end?",
+    "Answers": ["1942", "1945", "1939", "1950"],
+    "IndexSolution": 1
+  },
+  {
+    "Question": "Who painted the Mona Lisa?",
+    "Answers": ["Leonardo da Vinci", "Michelangelo", "Van Gogh", "Picasso"],
+    "IndexSolution": 0
+  },
+  {
+    "Question": "How many continents are there?",
+    "Answers": ["5", "6", "7", "8"],
+    "IndexSolution": 2
+  },
+  {
+    "Question": "Which ocean is the largest?",
+    "Answers": ["Atlantic", "Indian", "Arctic", "Pacific"],
+    "IndexSolution": 3
+  },
+  {
+    "Question": "Which language is the most spoken worldwide?",
+    "Answers": ["English", "Spanish", "Mandarin Chinese", "Hindi"],
+    "IndexSolution": 2
+  },
+  {
+    "Question": "What is the smallest prime number?",
+    "Answers": ["0", "1", "2", "3"],
+    "IndexSolution": 2
+  },
+  {
+    "Question": "Which country is known for the kangaroo?",
+    "Answers": ["India", "Australia", "South Africa", "Canada"],
+    "IndexSolution": 1
+  },
+  {
+    "Question": "Who is the author of 'Harry Potter'?",
+    "Answers": ["J.K. Rowling", "J.R.R. Tolkien", "Stephen King", "George R.R. Martin"],
+    "IndexSolution": 0
+  },
+  {
+    "Question": "What gas do plants absorb from the atmosphere?",
+    "Answers": ["Oxygen", "Hydrogen", "Carbon Dioxide", "Nitrogen"],
+    "IndexSolution": 2
+  },
+  {
+    "Question": "How many teeth does a normal adult human have?",
+    "Answers": ["28", "30", "32", "34"],
+    "IndexSolution": 2
+  },
+  {
+    "Question": "What is the boiling point of water in Celsius?",
+    "Answers": ["90", "95", "100", "110"],
+    "IndexSolution": 2
+  },
+  {
+    "Question": "Which sport uses a shuttlecock?",
+    "Answers": ["Tennis", "Badminton", "Squash", "Ping Pong"],
+    "IndexSolution": 1
+  },
+  {
+    "Question": "What is the longest river in the world?",
+    "Answers": ["Amazon", "Yangtze", "Mississippi", "Nile"],
+    "IndexSolution": 3
+  },
+  {
+    "Question": "Which planet is closest to the Sun?",
+    "Answers": ["Venus", "Earth", "Mercury", "Mars"],
+    "IndexSolution": 2
+  },
+  {
+    "Question": "Who discovered penicillin?",
+    "Answers": ["Marie Curie", "Alexander Fleming", "Isaac Newton", "Albert Einstein"],
+    "IndexSolution": 1
+  },
+  {
+    "Question": "What is the hardest natural substance on Earth?",
+    "Answers": ["Gold", "Iron", "Diamond", "Quartz"],
+    "IndexSolution": 2
+  },
+  {
+    "Question": "In which country were the Olympic Games invented?",
+    "Answers": ["Italy", "Greece", "France", "Egypt"],
+    "IndexSolution": 1
+  },
+  {
+    "Question": "What is the largest internal organ in the human body?",
+    "Answers": ["Heart", "Liver", "Lungs", "Kidneys"],
+    "IndexSolution": 1
+  },
+  {
+    "Question": "Which planet has rings around it?",
+    "Answers": ["Venus", "Jupiter", "Saturn", "Mars"],
+    "IndexSolution": 2
+  },
+  {
+    "Question": "Which instrument has 88 keys?",
+    "Answers": ["Violin", "Piano", "Guitar", "Flute"],
+    "IndexSolution": 1
+  },
+  {
+    "Question": "What does 'www' stand for in a website browser?",
+    "Answers": ["World Wide Web", "Web World Wide", "Wide World Web", "World Web Wide"],
+    "IndexSolution": 0
+  },
+  {
+    "Question": "Which country is famous for the Taj Mahal?",
+    "Answers": ["India", "Iran", "Turkey", "Pakistan"],
+    "IndexSolution": 0
+  },
+  {
+    "Question": "Which metal is liquid at room temperature?",
+    "Answers": ["Lead", "Mercury", "Silver", "Zinc"],
+    "IndexSolution": 1
+  },
+  {
+    "Question": "How many legs does a spider have?",
+    "Answers": ["6", "8", "10", "12"],
+    "IndexSolution": 1
+  },
+  {
+    "Question": "Who was the first president of the United States?",
+    "Answers": ["Thomas Jefferson", "Abraham Lincoln", "George Washington", "John Adams"],
+    "IndexSolution": 2
+  },
+  {
+    "Question": "Which planet is known for its Great Red Spot?",
+    "Answers": ["Mars", "Jupiter", "Neptune", "Uranus"],
+    "IndexSolution": 1
+  },
+  {
+    "Question": "What is the largest desert in the world?",
+    "Answers": ["Gobi", "Kalahari", "Sahara", "Antarctica"],
+    "IndexSolution": 3
+  },
+  {
+    "Question": "What is the square root of 64?",
+    "Answers": ["6", "7", "8", "9"],
+    "IndexSolution": 2
+  },
+  {
+    "Question": "What is the national flower of Japan?",
+    "Answers": ["Lily", "Rose", "Cherry Blossom", "Orchid"],
+    "IndexSolution": 2
+  },
+  {
+    "Question": "Who invented the telephone?",
+    "Answers": ["Edison", "Alexander Graham Bell", "Tesla", "Marconi"],
+    "IndexSolution": 1
+  },
+  {
+    "Question": "What is the freezing point of water in Celsius?",
+    "Answers": ["0", "10", "32", "-1"],
+    "IndexSolution": 0
+  },
+  {
+    "Question": "Which city is known as 'The Big Apple'?",
+    "Answers": ["Los Angeles", "Chicago", "New York", "San Francisco"],
+    "IndexSolution": 2
+  },
+  {
+    "Question": "What is the largest bone in the human body?",
+    "Answers": ["Humerus", "Femur", "Spine", "Skull"],
+    "IndexSolution": 1
+  },
+  {
+    "Question": "Which bird is a universal symbol of peace?",
+    "Answers": ["Eagle", "Owl", "Dove", "Parrot"],
+    "IndexSolution": 2
+  },
+  {
+    "Question": "Which country gave the Statue of Liberty to the USA?",
+    "Answers": ["Germany", "France", "Italy", "UK"],
+    "IndexSolution": 1
+  },
+  {
+    "Question": "Which famous scientist developed the theory of relativity?",
+    "Answers": ["Newton", "Galileo", "Einstein", "Tesla"],
+    "IndexSolution": 2
+  },
+  {
+    "Question": "Which musical has the song 'Let It Go'?",
+    "Answers": ["Frozen", "Moana", "Tangled", "The Lion King"],
+    "IndexSolution": 0
+  },
+  {
+    "Question": "Which continent is the Sahara Desert located in?",
+    "Answers": ["Asia", "Africa", "South America", "Australia"],
+    "IndexSolution": 1
+  },
+  {
+    "Question": "What is the main ingredient in guacamole?",
+    "Answers": ["Tomato", "Avocado", "Cucumber", "Pepper"],
+    "IndexSolution": 1
+  },
+  {
+    "Question": "Which blood type is a universal donor?",
+    "Answers": ["A", "B", "AB", "O negative"],
+    "IndexSolution": 3
+  },
+  {
+    "Question": "What is the tallest mountain in the world?",
+    "Answers": ["Mount Kilimanjaro", "Mount Everest", "K2", "Mont Blanc"],
+    "IndexSolution": 1
+  },
+  {
+    "Question": "What currency is used in Japan?",
+    "Answers": ["Dollar", "Euro", "Yen", "Won"],
+    "IndexSolution": 2
+  },
+  {
+    "Question": "Which animal is known as the 'King of the Jungle'?",
+    "Answers": ["Tiger", "Elephant", "Lion", "Cheetah"],
+    "IndexSolution": 2
+  },
+  {
+    "Question": "Who wrote '1984'?",
+    "Answers": ["George Orwell", "Aldous Huxley", "J.D. Salinger", "F. Scott Fitzgerald"],
+    "IndexSolution": 0
+  },
+  {
+    "Question": "Which planet is known for its rings?",
+    "Answers": ["Jupiter", "Saturn", "Neptune", "Uranus"],
+    "IndexSolution": 1
+  },
+  {
+    "Question": "What is the chemical formula for water?",
+    "Answers": ["CO2", "H2O", "O2", "NaCl"],
+    "IndexSolution": 1
+  },
+  {
+    "Question": "What is the name of the longest bone in the human body?",
+    "Answers": ["Femur", "Tibia", "Fibula", "Humerus"],
+    "IndexSolution": 0
+  }
+]

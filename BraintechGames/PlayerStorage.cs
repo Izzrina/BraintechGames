@@ -13,7 +13,7 @@ namespace BraintechGames
         /*
          * Das File als Konstante gesetzt, weil nicht zur Laufzeit veränderbar
          */
-        private const string FilePath = "players.json";
+        private const string FilePath = "Data/players.json";
 
 
         /*
